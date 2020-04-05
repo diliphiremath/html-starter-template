@@ -1,1 +1,2 @@
-# html-starter-template
+# html starter template
+## v1.0
