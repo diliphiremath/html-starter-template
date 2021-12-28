@@ -1,1 +1,3 @@
-console.log('Welcome to HTML starter template');
+window.addEventListener('DOMContentLoaded', () =>{
+    console.log('Welcome to HTML starter template');
+})
